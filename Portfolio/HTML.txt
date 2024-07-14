@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Prajana Senthilkumar</h1>
+            <p>Your Expression or Brief Introduction</p>
+        </div>
+    </header>
+    <section id="about">
+        <div class="container">
+            <h2>About Me</h2>
+            <p>I am Prajana I am studying B.E Computer Science and Engineering at K.Ramakrishnan college of Engineering, Trichy.</p>
+            <p>Short bio highlighting your skills and experience.</p>
+        </div>
+    </section>
+    <section id="skills">
+        <div class="container">
+            <h2>Skills</h2>
+            <ul>
+                <li>Skill 1</li>
+                <li>Skill 2</li>
+                <li>Skill 3</li>
+            </ul>
+        </div>
+    </section>
+    <section id="projects">
+        <div class="container">
+            <h2>Projects</h2>
+            <div class="project">
+                <h3>Project Title 1</h3>
+                <p>Project description.</p>
+                <img src="project1" alt="Project 1 Finance Tracking App">
+            </div>
+            <div class="project">
+                <h3>Project Title 2</h3>
+                <p>Project description.</p>
+                <img src="project2" alt="Project 2 Calculator">
+            </div>
+        </div>
+    </section>
+    <section id="resume">
+        <div class="container">
+            <h2>Resume</h2>
+            <a href="your-resume.pdf" download>Download My Resume</a>
+        </div>
+    </section>
+    <section id="contact">
+        <div class="container">
+            <h2>Contact</h2>
+            <p>Email: prajanasenthilkumar@gmail.com</p>
+            <p>Phone: (123) 456-7890</p>
+        </div>
+    </section>
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Prajana . All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
